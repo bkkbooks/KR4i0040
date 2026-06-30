@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0040/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0040_WYG_000-1a, image: WYG1481/WYG1481-0519a.png}
+body:
+  text: 草堂詩話詩文評類提要臣等謹案草堂詩話二卷宋建安蔡夢弼撰篇首題曰名儒嘉話凡二百餘條蓋夢弼曽著杜工部草堂詩箋其本久佚存者惟此而已宋史藝文志云方道醇集諸家老杜詩評五卷方銓續老杜詩評五卷陳振孫書録解題則云莆田方道深集諸家老杜詩評五卷續一卷又載杜詩發揮一卷今書皆不傳則此為最舊矣近代注杜詩者引夢弼詩話不過十餘則未有能見此本者也杜詩至宋而大行故篇中皆宋人評語而取於韻語陽秋者尤多云乾隆四十三年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:210527612d3700afedd41896071a495deafe11a99d4163846def36a08378f132
+metadata:
+  title: 草堂詩話
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:45:40.180446'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4i0040/KR4i0040_000.txt
+hash: sha256:f4ad1f6a281129316d8a0816b368ffab18046277e6feffe8c3bef314b971825e
